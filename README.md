@@ -101,5 +101,6 @@ Once you have created the content, it's time you submit the contribution for the
 
 
 ## Get in Touch
-Need help? Please join our [Discord server](https://discord.gg/tSs4K74esM) and we will provide all needed help for you to proceed. 
+
+Need help? Please join [Showwcase Open Source Community](https://www.showwcase.com/community/open-source) to discuss further. 
 
