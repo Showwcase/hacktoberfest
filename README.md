@@ -1,6 +1,6 @@
 # Hacktoberfest with Showwcase
 
-This repository contains a record of all low-code and no-code contributions made during the Hacktoberfest event.
+This repository contains a record of all low-code contributions made during the Hacktoberfest event.
 
 # What is Hacktoberfest?
 `Hacktoberfest` is a celebration of Open Source. It is a virtual event organized by DigitalOcean and its partners throughout October. It is aimed toward open source and introducing it to as many developers as possible. Read more about the event from [here](https://hacktoberfest.com/).
@@ -19,9 +19,9 @@ The table below explains the types of no-code/low-code contributions that are ac
 
 ## Hacktoberfest with Showwcase
 
-We at Showwcase encourage every developer to contribute to Open Source through Hacktoberfest. We are excited to participate in the event to encourage open-source enthusiasts to make `low-code` contributions. 
+We at Showwcase encourage every developer to contribute to Open Source through Hacktoberfest. We are excited to participate in the event to encourage open-source enthusiasts to make `low-code` contributions with content creation. 
 
-Showwcase is the platform for developers to learn, share, and grow. One of the prominent avenues for developers to learn and grow is with the `shows` in Showwcase. With shows, you can create blog articles, videos, podcasts, and many other content types that are free to consume.
+`Showwcase` is the platform for developers to learn, share, and grow. One of the prominent avenues for developers to learn and grow is with the `shows` in Showwcase. With shows, you can create blog articles, videos, podcasts, and many other content types that are free to consume.
 
 In this Hactoberfest, you can create any type of show and make a `low-code` contribution to Hactoberfest. Read below to get started.
 
