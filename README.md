@@ -43,7 +43,7 @@ Follow these steps to start your contributions:
 ## Some Ground Rules
 
 - The content must be an original content.
-- The content must be any of the following types: Web3, JavaScript, Python, ReactJS, Machine Learning, DevOps, Web Development, Git, GitHub, and Open Source.
+- The content must be any of the following types: Web3, JavaScript, Java, Python, ReactJS, Machine Learning, DevOps, Web Development, Git, GitHub, DS, Algo, and Open Source.
 
 
 ## How to Submit the Contribution
