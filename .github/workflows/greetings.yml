@@ -1,0 +1,19 @@
+on:
+  fork:
+  push:
+    branches: [main]
+  issues:
+    types: [opened]
+  pull_request_target:
+    types: [opened]
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: EddieHubCommunity/gh-action-community/src/welcome@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: "<h1>Thank you for raising this issue. One of our maintainers of this project will soon reach out to you. </h1>"
+          pr-message: "<h1> Hey contributor, thanks for raising this PR. One of our project maintainers will soon reach out you :nerd_face:"
