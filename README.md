@@ -93,9 +93,9 @@ Once you have created the content, it's time you submit the contribution for the
     "link": "https://www.showwcase.com/show/16140/javascript-promises-quizzes-and-interview-questions"
   ---
   ```
-7. Commmit your changes.
+7. Commit your changes.
 
-8. Crate a Pull Request.
+8. Create a Pull Request.
   
 9. Wait until someone from our team reviews and approves it or get back with comments.
 
