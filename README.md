@@ -23,7 +23,7 @@ We at Showwcase encourage every developer to contribute to Open Source through H
 
 `Showwcase` is the platform for developers to learn, share, and grow. One of the prominent avenues for developers to learn and grow is with the `shows` in Showwcase. With shows, you can create blog articles, videos, podcasts, and many other content types that are free to consume.
 
-In this Hactoberfest, you can create any type of show and make a `low-code` contribution to Hactoberfest. Read below to get started.
+In this Hacktoberfest, you can create any type of show and make a `low-code` contribution to Hacktoberfest. Read below to get started.
 
 ## How to Contribute?
 
@@ -48,7 +48,7 @@ Follow these steps to start your contributions:
 
 ## How to Submit the Contribution
 
-Once you have created the content, it's time you submit the contribution for the Hactoberfest event. Follow these simple steps to get there.
+Once you have created the content, it's time you submit the contribution for the Hacktoberfest event. Follow these simple steps to get there.
 
 1. Go to the [Issues](https://github.com/Showwcase/hacktoberfest/issues/new/choose) page and add a new issue for the **Hacktoberfest Contribution**
 
@@ -95,7 +95,7 @@ Once you have created the content, it's time you submit the contribution for the
   ```
 7. Commmit your changes.
 
-8. Crate a Pull Request.
+8. Create a Pull Request.
   
 9. Wait until someone from our team reviews and approves it or get back with comments.
 
