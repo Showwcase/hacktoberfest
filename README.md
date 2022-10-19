@@ -15,7 +15,7 @@ The table below explains the types of no-code/low-code contributions that are ac
 | ----------------- | --------------------------------------------------- | --------------------------------------------- |
 | Writing           | Technical Documentation                             | Translating, Copy editing                     |
 | Design            | Testing                                             | UX Testing, Graphics design, video production |
-| Advocacy          | Talks, presentations, blogs, podcasts, case studies | social media blog posts                       |
+| Advocacy          | Talks, presentations, blogs, podcasts, case studies | Social media blog posts                       |
 
 ## Hacktoberfest with Showwcase
 
@@ -30,7 +30,7 @@ In this Hacktoberfest, you can create any type of show and make a `low-code` con
 Follow these steps to start your contributions:
 
 - Sign Up with [Showwcase](https://showwcase.com) and log in to the application.
-- Click on the `Create` button at the header of the page and then select the `New Show` option
+- Click on the `Create` button at the header of the page and then select the `New Show` option.
 
 ![image](https://user-images.githubusercontent.com/3633137/194374689-5f165cc1-59ea-4929-839a-9f67284a3c22.png)
 
@@ -43,7 +43,7 @@ Follow these steps to start your contributions:
 ## Some Ground Rules
 
 - The content must be an original content.
-- The content must be any of the following types: Web3, JavaScript, Java, Python, ReactJS, Machine Learning, DevOps, Web Development, Git, GitHub, DS, Algo, and Open Source.
+- The content must be any of the following types: Web3, JavaScript, Java, Python, ReactJS, Machine Learning, DevOps, Web Development, Git, GitHub, Data Science, Algorithm, and Open Source.
 
 
 ## How to Submit the Contribution
@@ -60,7 +60,7 @@ Once you have created the content, it's time you submit the contribution for the
 
 3. One of us from the community will assign the issue to you.
 
-4. Fork this repository
+4. Fork this repository.
   
 5. Create a new branch in the `forked` repository.
   
